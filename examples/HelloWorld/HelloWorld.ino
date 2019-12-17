@@ -1,5 +1,5 @@
 #include <LiquidCrystal_74HC595.h>
-
+//  https://electroteach.com/drupal/?q=taxonomy/term/92
 #define DS 11
 #define SHCP 13
 #define STCP 12
